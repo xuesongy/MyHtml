@@ -13,11 +13,14 @@ ol {
 h3 {
 	width: 85px;
 	font-family: 仿宋;
-	margin-left: 5%;
+	margin-left: 1%;
 	margin-top: 20px;
 	border-bottom: ridge 4px #6fddd6;
 	border-right: ridge 4px #6fddd6; 
 	text-align: center;
+}
+.study_h3{
+	margin-left: 6%;
 }
 #hea{
 	width: 98%;
